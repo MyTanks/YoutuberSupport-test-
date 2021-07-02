@@ -277,6 +277,7 @@ body
 {
     width: 100%;
     height: 100%;
+    font-size: normal;
     color: #fff;
     background: linear-gradient(-46deg,#FCFCFD, crimson, rgb(175, 11, 207), #FF2D00 , #00E5A3);
     position: relative;
